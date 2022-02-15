@@ -1,6 +1,6 @@
 {
-    "name": "abdoh",
-    "short_name": "abdoh",
+    "name": "flutter_wip_page",
+    "short_name": "flutter_wip_page",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
